@@ -1,0 +1,23 @@
+header {
+	background: #2c3e50;
+	color:#fff;
+}
+.main{
+	background:#f2f2f2;
+}
+.color1{
+	background:#1E90FF;
+	color:#000;
+}
+aside{
+	background:#3CB371;
+	color:#000;
+}
+footer{
+	background:#00FF7F;
+	color:#000;
+}
+article{
+	background:#6495ED;
+	color:#000;
+}
